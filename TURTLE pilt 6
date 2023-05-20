@@ -1,0 +1,16 @@
+#Janika Roots
+#20.05.2023
+#Pilt 6 TURTlE
+e = 150
+f = 70
+n = 90
+
+for i in range (4):
+    for i in range (2):
+        turtle.forward(e)
+        turtle.left(n)
+        turtle.forward(f)
+        turtle.left(n)
+    turtle.left(n)
+
+turtle.exitonclick()
