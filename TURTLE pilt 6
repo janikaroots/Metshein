@@ -1,6 +1,7 @@
 #Janika Roots
 #20.05.2023
-#Pilt 6 TURTlE
+#Pilt 6 TURTLE
+import turtle
 e = 150
 f = 70
 n = 90
